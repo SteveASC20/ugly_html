@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    background-color: #1a40ebde ;
+    color: rgb(255, 176, 7);
+    font-family: 'Gill Sans';
+    font-size: 45px;
+    padding: 10px;
+}
+
+h2{
+    color: white;
+    font-family: "Comic Sans MS";
+    font-stretch: "condensed" ;
+    font-size: 20px;
+}
+
